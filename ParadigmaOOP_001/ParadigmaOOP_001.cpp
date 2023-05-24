@@ -9,5 +9,5 @@ public:
 	orang(string pNama) :
 		nama(pNama) {
 		cout << "orang dibuat\n" << endl;
-	}
+	} 
 };
